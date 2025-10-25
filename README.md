@@ -42,10 +42,10 @@ The project follows a full ML pipeline — from data preprocessing and feature e
 - Learned to interpret model performance and extract actionable insights for pricing.
 
 ## 📁 Notebook
-- [View Project Notebook](./end-to-end-bluebook-bulldozer-price-regression.ipynb)
+- [View Project Notebook](https://github.com/Aksachlisimo/bulldozer_price_regression_project)
 
 ## 🛠️ Setup Instructions
-- Clone the repository: `git clone https://github.com/mrdbourke/zero-to-mastery-ml.git`  
+- Clone the repository: `git clone https://github.com/Aksachlisimo/bulldozer_price_regression_project`  
 - Install dependencies: `pip install -r requirements.txt` *(create if not present: pandas, numpy, matplotlib, seaborn, scikit-learn)*  
 - Open the notebook in Jupyter and run all cells.
 
