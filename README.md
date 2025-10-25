@@ -42,7 +42,7 @@ The project follows a full ML pipeline — from data preprocessing and feature e
 - Learned to interpret model performance and extract actionable insights for pricing.
 
 ## 📁 Notebook
-- [View Project Notebook](https://github.com/Aksachlisimo/bulldozer_price_regression_project)
+- [View Project Notebook](./end-to-end-bluebook-bulldozer-price-regression.ipynb)
 
 ## 🛠️ Setup Instructions
 - Clone the repository: `git clone https://github.com/Aksachlisimo/bulldozer_price_regression_project`  
